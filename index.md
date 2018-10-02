@@ -8,4 +8,4 @@ Turning sacred cows into quarter-pounders.
 
 ### Support or Contact
 
-Having trouble with privatemover group? [contact support](https://github.com/mfrigillana) and we’ll help you sort it out.
+Having trouble with privatemover group? [contact](https://github.com/mfrigillana) for answers.
